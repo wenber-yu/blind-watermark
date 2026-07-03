@@ -1,4 +1,4 @@
-# BlindWatermark
+# blind-watermark
 
 基于 DWT（离散小波变换）频域编码的盲水印工具，macOS 原生应用。
 
@@ -17,7 +17,7 @@
 
 ### 直接下载
 
-从 [Releases](https://github.com/wilbur-yu/BlindWatermark/releases) 页面下载最新版本的 `盲水印.app`。
+从 [Releases](https://github.com/wenber-yu/blind-watermark/releases) 页面下载最新版本的 `盲水印.app`。
 
 ### 手动编译
 
